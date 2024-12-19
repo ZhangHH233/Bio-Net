@@ -1,5 +1,6 @@
-code of paper 'Automatic Segmentation and Visualization of Choroid in OCT with Knowledge Infused Deep Learning'
+Code for paper 'Automatic Segmentation and Visualization of Choroid in OCT with Knowledge Infused Deep Learning'
 
+Reference\\
 @ARTICLE{BioNet2020ZHH,
   author={Zhang, Huihong and Yang, Jianlong and Zhou, Kang and Li, Fei and Hu, Yan and Zhao, Yitian and Zheng, Ce and Zhang, Xiulan and Liu, Jiang},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
